@@ -1,4 +1,8 @@
-# Java Koans 
+# Java Koans Solutions
+
+Solutions to the Java Koans (https://github.com/matyb/java-koans)
+
+## Java Koans 
 
 [![Build Status](https://travis-ci.org/matyb/java-koans.png?branch=master)](https://travis-ci.org/matyb/java-koans)
 
